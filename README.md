@@ -1,8 +1,8 @@
 # GridBaseSystem
 
-Grid-based trading system (V2 current; earlier grid builds archived).
+Grid trading robot for MetaTrader 5 with a moving-average filter, lot scaling and a reverse stop.
 
-> **Proprietary software** — © Teenodi Ltd. All rights reserved. Private repository; not for distribution. See [LICENSE](LICENSE).
+> **Proprietary software.** © Teenodi Ltd. All rights reserved. The code is shared for viewing only. It is not licensed for reuse or redistribution. See [LICENSE](LICENSE).
 
 ## Grid-Base_System_V2.mq5
 
@@ -64,6 +64,10 @@ Earlier versions / forks are preserved under [`archive/`](archive/) for referenc
 2. In MetaEditor, open the file and compile (**F7**).
 3. Attach the compiled program to a chart from the terminal Navigator.
 
+## Risk note
+
+Trading carries risk. This code shows how the strategy is built. It is not financial advice.
+
 ## License
 
-Proprietary and confidential. © Teenodi Ltd. All rights reserved. See [LICENSE](LICENSE).
+Proprietary. © Teenodi Ltd. All rights reserved. The code is shared for viewing only. See [LICENSE](LICENSE).
